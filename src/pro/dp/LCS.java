@@ -28,7 +28,7 @@ public class LCS {
         arrE = new char[E.length()];
         arrE = E.toCharArray();
         LCS = new int[501][501];    
-        System.out.println(Arrays.toString(arrE));
+        //System.out.println(Arrays.toString(arrE));
 	}
 	
 	static void solve() {
