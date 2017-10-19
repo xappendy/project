@@ -53,7 +53,7 @@ public class LCS {
 		} catch (Exception e) {
 			// TODO: handle exception
 		}
-        Scanner sc = new Scanner(System.in);
+        	Scanner sc = new Scanner(System.in);
 		input(sc);
 		solve();
 	}
